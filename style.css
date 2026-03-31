@@ -75,7 +75,7 @@
 }
 
 .search-input {
-    width: 100%;       /* fixed from 500% */
+    width: 100%;       
     font-size: 1rem;
     border: none;
     padding: 0 10px;
